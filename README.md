@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Shaughnessy (@shockssoftware)
-- 👀 I’m interested in Machine Learning, Neural Networks & Python 
+- 👀 I’m interested in Data Science, Machine Learning, Neural Networks & Python 
 - 🌱 I’m currently learning how to deploy my machine learning models online
 - 💞️ I’m looking to collaborate on Data analytics, Machine learning & Supervised & unsupervised learning models.
 - 📫 Reach me on:
